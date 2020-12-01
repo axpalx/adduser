@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 const BodyForm = styled.div`
   width: 400px;
-  height: 35vh;
+  height: 380px;
   margin: 20vh auto;
   background: #6c7a89;
   display: flex;
